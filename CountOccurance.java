@@ -23,9 +23,10 @@ class CountOccurance {
     public static void main(String[] args) 
     { 
         ArrayList<String> list = new ArrayList<String>(); 
-        list.add("Geeks"); 
-        list.add("for"); 
-        list.add("Geeks"); 
+        list.add("Deepanshu"); 
+        list.add("Jain"); 
+        list.add("Sandeep"); 
+        list.add("Jain"); 
         countFrequencies(list); 
     } 
 } 
